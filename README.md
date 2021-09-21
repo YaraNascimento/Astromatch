@@ -1,4 +1,5 @@
 # Projeto Astromatch
 
 * Instalação de bibliotecas: 
-npm install axios
+npm install axios, 
+yarn add styled-components
