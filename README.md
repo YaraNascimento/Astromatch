@@ -1,6 +1,8 @@
 # Projeto Astromatch
 
 Usei API, React.js e Material-ui
+Projeto do Bootcamp Labenu: https://www.labenu.com.br/
+API fornecida: https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest
 
 * Instalação de bibliotecas: 
 npm install axios, 
