@@ -1,5 +1,7 @@
 # Projeto Astromatch
 
+Usei API, React.js e Material-ui
+
 * Instalação de bibliotecas: 
 npm install axios, 
 yarn add styled-components
